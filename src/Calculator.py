@@ -16,3 +16,4 @@ def max(x,y,z):
   m=y
  if(z>m):
   m=z
+ return m 
